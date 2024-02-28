@@ -1,6 +1,6 @@
-224878495 com.example.app:my-vulnerable-app:jar:1.0-SNAPSHOT
-2050715938 junit:junit:jar:3.8.1:test
-1931977799 commons-collections:commons-collections:jar:3.2:compile
+1940844413 com.example.app:my-vulnerable-app:jar:1.0-SNAPSHOT
+1301763240 junit:junit:jar:3.8.1:test
+1387556178 commons-collections:commons-collections:jar:3.2:compile
 #
-224878495 2050715938 test
-224878495 1931977799 compile
+1940844413 1301763240 test
+1940844413 1387556178 compile
